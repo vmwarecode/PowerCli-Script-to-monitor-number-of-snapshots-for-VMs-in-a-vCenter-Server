@@ -1,0 +1,1 @@
+# PowerCli-Script-to-monitor-number-of-snapshots-for-VMs-in-a-vCenter-Server
